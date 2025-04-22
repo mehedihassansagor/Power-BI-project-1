@@ -1,4 +1,4 @@
-📊 Power BI Sales Dashboard Project
+📊 Power BI Sales Dashboard Project </br>
 Project Title: Interactive Sales Performance Dashboard </br>
 Tool Used: Microsoft Power BI </br>
 Data Source: Excel Dataset – Sales Transactions </br>
